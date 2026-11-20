@@ -43,7 +43,7 @@ languages:
     params:
       hero:
         intro: "Hola, mi nombre es"
-        title: "Isabella."
+        title: "Archana."
         subtitle: "Construyo cosas para la web"
         content: "Una desarrolladora apasionada de aplicaciones web. Tiendo a hacer uso de tecnologías web modernas para construir sitios web que se ven geniales, se sienten fantásticos y funcionan correctamente."
         button:
@@ -249,7 +249,7 @@ languages:
     params:
       hero:
         intro: "Bonjour, je m'appelle"
-        title: "Isabella."
+        title: "Archana."
         subtitle: "Je construis des choses pour le web"
         content: "Une développeuse passionnée d'applications web. J'ai tendance à utiliser des technologies web modernes pour créer des sites web qui ont fière allure, qui sont agréables et qui fonctionnent correctement."
         button:
@@ -563,7 +563,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "Archana."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/hero.svg
