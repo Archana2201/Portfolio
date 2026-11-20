@@ -1,6 +1,6 @@
 # Multi-Page Sites
 
-Hugo Profile is a **single-page portfolio** (the homepage holds Hero, About, Experience, … Contact) combined with **extra pages** that you add as normal Hugo content. This page explains how the pages fit together and how to add your own.
+Archana Singh is a **single-page portfolio** (the homepage holds Hero, About, Experience, … Contact) combined with **extra pages** that you add as normal Hugo content. This page explains how the pages fit together and how to add your own.
 
 ## Page types at a glance
 

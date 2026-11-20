@@ -7,7 +7,7 @@ All theme options live in your site's `hugo.yaml` (the complete, working sample 
 ```yaml
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Profile"           # Used in <title> and as the default brand name
+title: "Archana Singh"           # Used in <title> and as the default brand name
 theme: hugo-profile
 
 defaultContentLanguage: "en"
@@ -41,7 +41,7 @@ markup:
 
 ```yaml
 params:
-  title: "Hugo Profile"          # Alt text for images, default brand name
+  title: "Archana Singh"          # Alt text for images, default brand name
   description: Text about my cool site   # Homepage <meta name="description">
   favicon: "/fav.png"            # Also used as default navbar/footer logo
   # staticPath: ""               # Prefix for theme asset URLs (see below)
@@ -88,7 +88,7 @@ Colours are documented in [Color Customization](Color-Customization).
     align: ms-auto               # ms-auto (default) | mx-auto (center) | me-auto
     # brandLogo: "/logo.png"     # default: params.favicon
     # showBrandLogo: false       # default: true
-    brandName: "Hugo Profile"    # default: params.title
+    brandName: "Archana Singh"    # default: params.title
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:

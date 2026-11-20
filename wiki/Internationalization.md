@@ -1,6 +1,6 @@
 # Internationalization (i18n)
 
-Hugo Profile supports Hugo's multilingual mode and ships translations for **English (`en`)**, **Spanish (`es`)** and **French (`fr`)**.
+Archana Singh supports Hugo's multilingual mode and ships translations for **English (`en`)**, **Spanish (`es`)** and **French (`fr`)**.
 
 ## Enable languages
 

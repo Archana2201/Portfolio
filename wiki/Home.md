@@ -1,6 +1,6 @@
-# Hugo Profile Wiki
+# Archana Singh Wiki
 
-Welcome to the end-to-end documentation for **Hugo Profile**, a high-performance, mobile-first [Hugo](https://gohugo.io) theme for personal portfolios and blogs.
+Welcome to the end-to-end documentation for **Archana Singh**, a high-performance, mobile-first [Hugo](https://gohugo.io) theme for personal portfolios and blogs.
 
 - Live demo: <https://hugo-profile.netlify.app>
 - Source: <https://github.com/gurusabarish/hugo-profile>

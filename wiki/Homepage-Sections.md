@@ -126,7 +126,7 @@ The tab id is derived from the company name and the first job's date, so keep th
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
+      - title: Archana Singh
         content: A highly customizable Hugo template.
         image: /images/projects/profile.png
         featured:
