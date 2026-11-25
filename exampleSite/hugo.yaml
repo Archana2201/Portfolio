@@ -164,6 +164,7 @@ params:
     title: "Projects"
     items:
       - title: "ASX Stock Insights"
+        image: /images/projects/asx-stock-insights.png
         content: "Screens and ranks ASX-style stocks from price history (50/200-day averages, momentum, RSI, volatility), P/E ratio and fundamentals. .NET 8 Clean Architecture API with a React dashboard. Uses synthetic sample data and is not financial advice."
         badges:
           - ".NET 8"
@@ -179,6 +180,7 @@ params:
           link: https://github.com/Archana2201/asx-stock-insights
 
       - title: "Courier Platform"
+        image: /images/projects/courier-platform.png
         content: "Starter platform for a courier start-up: price quotes, shipment booking, a lifecycle state machine and parcel tracking. .NET 8 microservices behind a YARP gateway, database per service, transactional outbox, plus a React web app."
         badges:
           - ".NET 8"
