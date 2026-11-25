@@ -195,6 +195,21 @@ params:
           name: "View on GitHub"
           link: https://github.com/Archana2201/courier-platform
 
+      - title: "Courier MCP Server"
+        image: /images/projects/courier-mcp-server.png
+        content: "Model Context Protocol server that lets AI assistants such as Claude quote, book and track parcels through the Courier Platform API. Typed tools with input validation, error handling and tests using a real MCP client."
+        badges:
+          - "MCP"
+          - "TypeScript"
+          - "Node.js"
+          - "AI tooling"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/Archana2201/courier-platform/tree/main/mcp-server
+        featured:
+          name: "View on GitHub"
+          link: https://github.com/Archana2201/courier-platform/tree/main/mcp-server
+
   contact:
     enable: true
     content: "I'm open to new opportunities. Whether you have a question or just want to say hi, send me a message on LinkedIn and I'll get back to you."
